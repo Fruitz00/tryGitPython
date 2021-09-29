@@ -6,8 +6,14 @@ num2 = eval(input("Enter second number: "))
 #     print(name)
 
 addNum = num1 + num2
-
+subNum = num1 - num2
+multiNum = num1 * num2
+divNum = num1 / num2
 print(addNum)
+print(subNum)
+print(multiNum)
+print(divNum)
+
 
 
 
