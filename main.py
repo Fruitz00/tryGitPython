@@ -1,9 +1,12 @@
-name = "ella"
+name = "Ella Fritz Sarmeinto"
+
+print(name)
+print("------------------")
+
 num1 = eval(input("Enter first number: "))
 num2 = eval(input("Enter second number: "))
 #
 # for i in range(4):
-#     print(name)
 
 addNum = num1 + num2
 subNum = num1 - num2
@@ -14,6 +17,4 @@ print(subNum)
 print(multiNum)
 print(divNum)
 
-
-
-
+print("Hatdog")
